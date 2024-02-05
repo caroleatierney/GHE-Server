@@ -1,0 +1,35 @@
+    {
+    "name": "Lavender Chammomile Tea Tallow Soap",
+    "image": "https://i.imgur.com/FG9mjrc",
+    "percentSuperFat": 3,
+    "ingredients": {
+      "ingredient1": "Sweet Almond Oil",
+      "amount1": 9.9,
+      "ingredient2": "Coconut Oil (76 degree)",
+      "amount2": 14.86,
+      "ingredient3": "Tallow (beef)",
+      "amount3": 14.86,
+      "ingredient4": "Avocado Oil",
+      "amount4": 4.95,
+      "ingredient5": "Castor Oil",
+      "amount5": 5.95,
+      "ingredient6": "Grapeseed Oil",
+      "amount6": 4.95,
+      "ingredient7": "Chammomile/Lavender Buds",
+      "amount7": 0,
+      "ingredient8": "Lavender Essential Oil",
+      "amount8": 0
+    },
+    "costPerBar": 5,
+    "costPerPound": 25,
+    "addCostToGiftWrapPerBar": 1,
+    "lyeCalculation": {
+      "minimumWaterNeeded": 18.23,
+      "sodiumHydroxide": 7.81
+    },
+    "totalOilsWeight": 54.48,
+    "totalRecipeWeight": 80.52,
+    "totalBarsAvail": 0,
+    "exfoliating": false,
+    "notes": "blah bah blah"
+  }
